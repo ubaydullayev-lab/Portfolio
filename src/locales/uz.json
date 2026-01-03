@@ -5,7 +5,7 @@
     "projects": "Loyihalar",
     "skills": "Ko'nikmalar",
     "contact": "Bog‘lanish",
-     "fayl":"CV Yuklab olish"
+    "fayl": "CV Yuklab olish"
   },
   "hero": {
     "title": "Salom, men Lochinbekman!",
@@ -20,34 +20,35 @@
     "button": "Loyihalar"
   },
   "projects": {
-  "title": "Loyiha va Dasturlash Yo‘lim",
-  "learned": "Nimalarni o‘rgandim",
-  "firstLearned": "Kod yozish qanday bo'lishligini!💫",
-  "firstTitle": "Birinchi yozgan kodlarim!🫡",
-  "firstDesc": "Bu mening dasturlashdagi ilk qadamlardan biri. HTML va CSS bilan oddiy sahifa yasagandim. Kodga bo‘lgan qiziqishim shu yerda boshlandi.",
-  "secondLearned": "Layout dizayni, komponentlar bilan ishlash, media query’lar. Eng asosiysi chalg'imaslikni.",
-  "secondDesc": "Faqat HTML va Bootsrap yordamida yaratilgan portfolio sayti. Fully responsive, zamonaviy va professional.",
-  "thirdLearned": "Layout dizayni, media query’lar.",
-  "thirdDesc": "HTML, CSS, yordamida yaratilgan portfolio sayti. Fully responsive, zamonaviy va professional.",
-  "button": "SAYTIM",
-  "bigTitle": "Mening eng katta loyihalarimdan biri!"
-},"weather": {
-  "alt": "Ob-havo loyihasi",
-  "learned": "Nimalarni o'rgandim",
-  "skills": "API bilan ishlash, real vaqt ma'lumot olish, foydalanuvchi interfeysini yaratish.",
-  "title": "🌦️ Ob-havo ilovasi",
-  "description": "Vite + React yordamida yaratilgan real ob-havo ilovasi. Havo ma'lumotlari onlayn API orqali olinadi.",
-  "button": "SAYTIM"
-},"skills": {
-  "title": "Ko‘nikmalarim",
-  "html": "HTML✔️",
-  "css": "CSS✔️",
-  "js": "JavaScript⬆️",
-  "react": "React⬆️",
-  "bootstrap": "Bootstrap✔️",
-  "antd": "Ant Design⬆️"
-}
-,
+    "title": "Loyiha va Dasturlash Yo‘lim",
+    "learned": "Nimalarni o‘rgandim",
+    "firstLearned": "Kod yozish qanday bo'lishligini!💫",
+    "firstTitle": "Birinchi yozgan kodlarim!🫡",
+    "firstDesc": "Bu mening dasturlashdagi ilk qadamlardan biri. HTML va CSS bilan oddiy sahifa yasagandim. Kodga bo‘lgan qiziqishim shu yerda boshlandi.",
+    "secondLearned": "Layout dizayni, komponentlar bilan ishlash, media query’lar. Eng asosiysi chalg'imaslikni.",
+    "secondDesc": "Faqat HTML va Bootstrap yordamida yaratilgan portfolio sayti. Fully responsive, zamonaviy va professional.",
+    "thirdLearned": "Layout dizayni, media query’lar.",
+    "thirdDesc": "HTML, CSS yordamida yaratilgan portfolio sayti. Fully responsive, zamonaviy va professional.",
+    "button": "SAYTIM",
+    "bigTitle": "Mening eng katta loyihalarimdan biri!"
+  },
+  "weather": {
+    "alt": "Ob-havo loyihasi",
+    "learned": "Nimalarni o'rgandim",
+    "skills": "API bilan ishlash, real vaqt ma'lumot olish, foydalanuvchi interfeysini yaratish.",
+    "title": "🌦️ Ob-havo ilovasi",
+    "description": "Vite + React yordamida yaratilgan real ob-havo ilovasi. Havo ma'lumotlari onlayn API orqali olinadi.",
+    "button": "SAYTIM"
+  },
+  "skills": {
+    "title": "Ko‘nikmalarim",
+    "html": "HTML✔️",
+    "css": "CSS✔️",
+    "js": "JavaScript⬆️",
+    "react": "React⬆️",
+    "bootstrap": "Bootstrap✔️",
+    "antd": "Ant Design⬆️"
+  },
   "contact": {
     "title": "Bog‘lanish",
     "rules": {
@@ -61,32 +62,25 @@
       "emailPlaceholder": "Email manzilingiz",
       "message": "Xabar",
       "messagePlaceholder": "Xabaringiz...",
-      "send": "Yuborish"
+      "send": "Yuborish",
+      "sending": "Yuborilmoqda..."
     },
     "details": {
       "title": "Aloqa ma'lumotlari",
       "social": "Ijtimoiy tarmoqlarim🌐"
-    }
-  },"modal": {
-  "viewFull": "TO‘LIQ KO‘RISH",
-  "title": "Eng birinchi yozgan kodim!🫡",
-  "back": "QAYTISH"
-},
-
+    },
+    "success": "✅ Xabar muvaffaqiyatli yuborildi!",
+    "error": "❌ Xatolik yuz berdi. Iltimos, qayta urinib ko‘ring."
+  },
+  "modal": {
+    "viewFull": "TO‘LIQ KO‘RISH",
+    "title": "Eng birinchi yozgan kodim!🫡",
+    "back": "QAYTISH"
+  },
   "footer": {
     "rights": "Barcha huquqlar himoyalangan.",
-   
     "projects": "Loyihalar",
     "skills": "Ko‘nikmalar",
-    "contact": "Bog‘lanish"}
-  
+    "contact": "Bog‘lanish"
+  }
 }
-
-
-
-
-
-
-
-
-
