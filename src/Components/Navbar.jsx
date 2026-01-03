@@ -40,7 +40,7 @@ function MyNavbar() {
             <NavItem><NavLink href="#skills">{t('navbar.skills')}</NavLink></NavItem>
             <NavItem><NavLink href="#contact">{t('navbar.contact')}</NavLink></NavItem>
 <a
-  href={"/projects/cv_lochinbek.pdf"}
+  href={"/projects/Lochinbek_Ubaydullayev_CV_Professional.pdf"}
   download
   whileHover={{ scale: 1.1 }}
   whileTap={{ scale: 0.9 }}
